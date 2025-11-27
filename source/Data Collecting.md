@@ -4,19 +4,19 @@
     </span>
 </h1>
 
-<div style="text-align: center;"> 
+<h2 style="text-align: center;"> 
     <span style="font-size: 32px; font-weight: bold">
         FINAL PROJECT
     </span>
-</div>
+</h2>
 
-<div style="text-align: center;"> 
+<h3 style="text-align: center;"> 
     <span style="font-size: 24px; font-weight: bold">
         <i>
             Data Collecting
         </i>
     </span>
-</div>
+</h3>
 
 <div style="text-align: right;">
     <span style="font-size: 14px">
