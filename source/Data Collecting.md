@@ -1,8 +1,8 @@
-<div style="text-align: center;"> 
+<h1 style="text-align: center;"> 
     <span style="font-size: 40px; font-weight: bold">
         CSC17104 – PROGRAMING FOR DATA SCIENCE
     </span>
-</div>
+</h1>
 
 <div style="text-align: center;"> 
     <span style="font-size: 32px; font-weight: bold">
