@@ -135,56 +135,108 @@ VI. [Question 6:](#vi)
 
 <h1 id="iii" style="font-weight: bold">III. Question 3: (điền câu hỏi vào)</h1>
 
-<h2 id="iii_1" style="font-weight: bold">1. Reason</h2>
+<h2 id="iii_1" style="font-weight: bold">1. Question</h2>
 
-<h2 id="iii_2" style="font-weight: bold">2. Benefit</h2>
+<h2 id="iii_2" style="font-weight: bold">2. Meaningful & Challenging</h2>
 
-<h2 id="iii_3" style="font-weight: bold">3. Necessary step</h2>
+<h2 id="iii_3" style="font-weight: bold">3. Motivation & Benefits</h2>
 
 ---
 
 <h1 id="iv" style="font-weight: bold">IV. Question 4: (điền câu hỏi vào)</h1>
 
-<h2 id="iv_1" style="font-weight: bold">1. Reason</h2>
+<h2 id="iv_1" style="font-weight: bold">1. Question</h2>
 
-<h2 id="iv_2" style="font-weight: bold">2. Benefit</h2>
+<h2 id="iv_2" style="font-weight: bold">2. Meaningful & Challenging</h2>
 
-<h2 id="iv_3" style="font-weight: bold">3. Necessary step</h2>
+<h2 id="iv_3" style="font-weight: bold">3. Motivation & Benefits</h2>
 
 ---
 
 <h1 id="v" style="font-weight: bold">V. Question 5: The Impact of Digital Lifestyle (TUE) and Physical Activity (FAF) on Obesity</h1>
 
-<h2 id="v_1" style="font-weight: bold">1. Reason</h2>
+<h2 id="v_1" style="font-weight: bold">1. Question</h2>
 
-* **High Relevance (Meaningful):** We live in a digital era where screen time (`TUE`) is unavoidable. This question addresses the most "pressing" issue of modern public health: The Sedentary Lifestyle.
+How does the correlation between time spent using technology devices (`TUE`) and physical activity frequency (`FAF`) impact obesity levels? Specifically, can maintaining a high frequency of physical activity (high `FAF`) effectively mitigate or neutralize the weight gain risks associated with a sedentary lifestyle caused by prolonged technology use (high `TUE`)?
 
-* **Analytical Complexity (Challenging):** This relationship is not simply linear. We aren't just comparing A to B; we are examining the interaction between two opposing forces: Technological Sedentarism vs. Physical Effort. It requires multi-dimensional visualization techniques to find the balance point.
+<h2 id="v_2" style="font-weight: bold">2. Meaningful & Challenging</h2>
 
-<h2 id="v_2" style="font-weight: bold">2. Benefit</h2>
+**Meaningful:**
 
-* **Decoding Myths:** It answers a tough question, "Can diligent exercise completely offset the harm of sitting at a computer all day, or is the damage irreversible?"
+* **Real-World Relevance:** This analysis addresses one of the most pressing public health issues of the modern era: The Sedentary Lifestyle. In a digital age where screen time (`TUE`) is unavoidable for work and study, understanding its direct correlation with health is critical.
 
-* **Practical Recommendations:** Instead of generic advice like "exercise more," you can provide specific figures (e.g., If you use a computer for >5 hours, you need an activity level of `FAF` > 2 to maintain weight).
+* **Practical Value:** It moves beyond theoretical observation to provide a clear picture of how modern habits impact physical well-being.
 
-* **Social Value:** The analysis results are immediately applicable to office workers and IT students-the demographic groups at highest risk.
+**Challenging:**
 
-<h2 id="v_3" style="font-weight: bold">3. Necessary step</h2>
+* **Analytical Depth:** The relationship is not simply linear. This analysis requires examining the interaction between opposing forces: the passive nature of Technological Sedentarism versus the active nature of Physical Effort.
+
+* **Complex Visualization:** It requires multi-dimensional visualization techniques to locate the "balance point," rather than a simple comparison of variable A to variable B.
+
+<h2 id="v_3" style="font-weight: bold">3. Motivation & Benefits</h2>
+
+**Why is this question worth investigating?**
+
+* To decode the common myth: "Can diligent exercise completely offset the physiological harm of sitting at a computer all day, or is the damage irreversible?"
+
+**What benefits or insights would answering this question provide?**
+
+* **Decoding Myths:** It provides a definitive answer to whether exercise can neutralize the effects of prolonged screen time.
+
+* **Practical Recommendations:** Instead of generic advice, it yields specific insights (e.g., "If you sit for >5 hours, you specifically need Activity Level > 2 to maintain weight").
+
+* **Social Value:** The findings are directly applicable to high - risk demographics like office workers and students, offering them a scientific basis for lifestyle changes.
+
+**Who would care about the answer?**
+
+* **Target Audience:** Office workers, IT students/professionals, and anyone with a desk job - demographics at the highest risk of obesity.
+
+**What real-world problem does this inform?**
+
+* **Actionable Advice:** Instead of generic advice like "exercise more," this analysis provides specific, data-driven thresholds.
+
+* **Example Outcome:** Determining if a user has a TUE > 5 hours, they specifically need a FAF > 2 to maintain weight, enabling precise lifestyle adjustments.
 
 ---
 
 <h1 id="vi" style="font-weight: bold">VI. Question 6: Multivariate Analysis of Meal Frequency (NCP) and Water Consumption (CH2O)</h1>
 
-<h2 id="vi_1" style="font-weight: bold">1. Reason</h2>
+<h2 id="vi_1" style="font-weight: bold">1. Meaningful & </h2>
 
-* **Scientific Verification (Meaningful):** There is a lot of anecdotal advice like "eat small frequent meals" or "drink lots of water to lose weight." This question turns those rumors into statistical hypotheses to verify whether they are true or false based on real data.
+How does the combination of the number of main meals (`NCP`) and daily water consumption (`CH2O`) contribute to the classification of obesity levels? Is there an optimal behavioral pattern (e.g., "Eating frequent small meals combined with high water intake") that maintains "Normal" weight and is statistically distinct from the behaviors of obesity groups?
 
-* **High Technical Requirement (Challenging):** To answer this, we cannot use raw data. We must perform Feature Engineering (creating user groups: "Healthy Group" vs. "Unhealthy Group") and use statistical tests (like T-tests) to prove that the difference is statistically significant, not random.
+<h2 id="vi_2" style="font-weight: bold">2. Meaningful & Challenging</h2>
 
-<h2 id="vi_2" style="font-weight: bold">2. Benefit</h2>
+**Meaningful:**
 
-* **Actionable Strategy:** It provides a clear "action formula." Users will know exactly which specific combination (e.g., >2L water + 4 meals/day) yields the best results, rather than just trying to starve themselves.
+* **Scientific Validation:** There is an abundance of anecdotal advice (e.g., "eat small frequent meals," "drink water to lose weight"). This analysis is meaningful because it turns those rumors into statistical hypotheses, verifying truth versus fiction using real data.
 
-* **Uncovering Unexpected Insights:** We might discover that drinking water is more critical than the number of meals, or vice versa. This helps optimize weight loss efforts by focusing on the most important factor.
+* **Decision Making:** It provides a scientific basis for dietary planning rather than relying on intuition.
 
-<h2 id="vi_3" style="font-weight: bold">3. Necessary step</h2>
+**Challenging:**
+
+* **Technical Complexity:** This cannot be answered with raw data alone. It involves a multi-step workflow including Feature Engineering (creating "Healthy" vs. "Unhealthy" user groups).
+
+* **Statistical Rigor:** It requires the use of statistical tests (such as T-tests) to prove that observed differences are statistically significant and not just random noise.
+
+<h2 id="vi_3" style="font-weight: bold">3. Motivation & Benefits</h2>
+
+**Why is this question worth investigating?**
+
+* To uncover unexpected insights, such as determining if water intake is a stronger predictor of weight control than meal frequency, allowing for prioritized efforts.
+
+**What benefits or insights would answering this question provide?**
+
+* **Actionable Strategy:** Users will gain a specific blueprint for success (e.g., identifying that ">2L Water + 4 Meals/day" is the most effective combo), rather than guessing.
+
+* **Prioritization of Efforts:** It uncovers which factor is more critical—hydration or meal frequency - allowing people to focus their limited energy on what matters most for weight loss.
+
+**Who would care about the answer?**
+
+* **Target Audience:** Individuals seeking weight loss, nutritionists, and health coaches looking for optimized strategies.
+
+**What real-world problem does this inform?**
+
+* **Actionable Strategy:** It aims to produce a clear "Action Formula."
+
+* **Example Outcome:** Users will understand the specific combination (e.g., >2L Water + 4 Meals/day) that yields the best results, optimizing their weight loss journey by focusing on factors that actually move the needle.
