@@ -126,9 +126,26 @@ root
 
 <h1 id="vi" style="font-weight: bold">VI. How to Run</h1>
 
-1. Clone the repository:
-2. Install dependencies:
-3. Run the notebooks: Start Jupyter Lab or Notebook to view the analysis in order (01 to 06).
+<h2 id="vi_1" style="font-weight: bold">1. Clone the repository</h2>
+
+```
+git clone https://github.com/ThunderRed1578/Obesity-or-CVD-risk-Classify-Regressor-Cluster-CSC17104.git
+```
+
+<h2 id="vi_2" style="font-weight: bold">2. Install dependencies</h2>
+
+
+```
+cd Obesity-or-CVD-risk-Classify-Regressor-Cluster-CSC17104
+pip install -r requirements.txt
+```
+
+<h2 id="vi_3" style="font-weight: bold">3. Run the notebooks: Start Jupyter Lab or Notebook to view the analysis in order.</h2>
+
+* Data Exploration.ipynb
+* Question Answering (1, 2).ipynb
+* Question Answering (3, 4).ipynb
+* Question Answering (5, 6).ipynb
 
 ---
 
