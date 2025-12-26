@@ -151,10 +151,10 @@ pip install -r requirements.txt
 
 <h1 id="vii" style="font-weight: bold">VII. Dependencies</h1>
 
-• Python 3.11
-• Data Manipulation: pandas, numpy
-• Visualization: matplotlib, seaborn
-• Machine Learning: scikit-learn (DecisionTree, KMeans, PCA, IsotonicRegression)
-• Advanced Modeling: xgboost
-• Explainability: shap
-• Statistics: scipy
+* Python 3.11
+* Data Manipulation: pandas, numpy
+* Visualization: matplotlib, seaborn
+* Machine Learning: scikit-learn (DecisionTree, KMeans, PCA, IsotonicRegression)
+* Advanced Modeling: xgboost
+* Explainability: shap
+* Statistics: scipy
